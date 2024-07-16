@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/user-grinch/Cheat-Menu/master/images/logo.png" width="700" height="180">
   </p>
